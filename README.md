@@ -15,7 +15,7 @@ O objetivo principal deste projeto é centralizar todos os editais em um único 
 - Sistema de Busca: Ferramenta de busca para facilitar a localização de editais específicos.
 
 ## Tecnologias Utilizadas
-- Backend: Node.js, Express, Playwright.
+- Backend: Node.js, FastFy, Playwright.
 
 - Banco de Dados: Sqlite3
 

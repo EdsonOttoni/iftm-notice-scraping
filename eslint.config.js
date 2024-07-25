@@ -11,6 +11,7 @@ export default [
   ...tseslint.configs.recommended,
   {
     rules: {
+      allowImportingTsExtensions: "on",
       "@typescript-eslint/no-unused-vars": [
         "warn",
         {
